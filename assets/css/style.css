@@ -555,7 +555,7 @@ span {
 }
 
 .section-sale {
-  background-image: url(/img/1-10.webp);
+  background-image: url(/img/1-10.jpg);
   min-height: 490px;
   background-position: center;
   background-repeat: no-repeat;
@@ -636,7 +636,7 @@ span {
 }
 
 .newsletter-area {
-  background-image: url("/img/bg-newletter.webp");
+  background-image: url("/img/bg-newletter.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
